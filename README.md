@@ -1,5 +1,5 @@
 # Gated_Sensor_fusion
-This repository contains the code for Gated Stem-branch DNN for dynamic sensor fusion.
+This repository contains the code for Gated Stem-branch DNN for dynamic sensor fusion corresponding to the following paper and its extension submitted to IEEE TMC 2025.
 
 C. Singhal, Y. Wu, F. Malandrino, S. L. de Guevara Contreras, M. Levorato and C. F. Chiasserini, "Resource-Efficient Sensor Fusion via System-Wide Dynamic Gated Neural Networks," 2024 21st Annual IEEE International Conference on Sensing, Communication, and Networking (SECON), Phoenix, AZ, USA, 2024, pp. 1-9,   
 doi: 10.1109/SECON64284.2024.10934843.
